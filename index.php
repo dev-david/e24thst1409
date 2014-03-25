@@ -51,9 +51,6 @@
 								<li><a href="#recentsales" id="recentsales-link" class="skel-panels-ignoreHref"><span class="icon icon-dollar">Recent Sales</span></a></li>
 								<li><a href="#about" id="about-link" class="skel-panels-ignoreHref"><span class="icon icon-bar-chart">Market Analysis</span></a></li>
 								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-group">About Us</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-phone">Call Kenny - 510.545.6932</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-phone">Call Kevin - 510.995.0015</span></a></li>
-								<li><a href="#contact" id="contact-link" class="skel-panels-ignoreHref"><span class="icon icon-phone">Call David - 510.922.0161</span></a></li>
 							</ul>
 						</nav>
 						
@@ -298,8 +295,6 @@
 				<!-- Contact -->
 					<section id="contact" class="four">
 						<div class="container">
-
-						<img src="images/mjre.jpg" alt="" class="image featured"/>
 						<header>
 							<h2>About Team Fast Agents</h2>
 							<span class="byline">Award winning team members with millions in properties sold.</span>
