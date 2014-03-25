@@ -252,7 +252,7 @@
 							<div class="row">
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
+										<a href="images/comp1a.jpg" class="image full fancybox"><img src="images/comp1a.jpg" alt="" /></a>
 										<header>
 										<h3><strong>2547 14th Ave</strong></h3>
 										<ul>
@@ -265,7 +265,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
+										<a href="images/comp2a.jpg" class="image full fancybox"><img src="images/comp2a.jpg" alt="" /></a>
 										<header>
 										<h3><strong>1424 E 20th St</strong></h3>
 										<ul>
@@ -278,7 +278,7 @@
 								</div>
 								<div class="4u">
 									<article class="item">
-										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
+										<a href="images/comp3a.jpg" class="image full fancybox"><img src="images/comp3a.jpg" alt="" /></a>
 										<header>
 										<h3><strong>2553 Wallace St</strong></h3>
 										<ul>
